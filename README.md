@@ -7,5 +7,6 @@ It lets you:
 - See total spending automatically updated
 
 You can open it directly in a browser or use the live demo link below:
-Live Demo: 
+Live Demo: https://kaungsanthar420.github.io/simple-expense-tracker/
+
 
